@@ -20,8 +20,11 @@ class ChattyStudent < Student
     super
     super
 
+    counter = 0
+
     while counter < 10
       puts super
-    end    
+      counter += 1
+    end
   end
 end
