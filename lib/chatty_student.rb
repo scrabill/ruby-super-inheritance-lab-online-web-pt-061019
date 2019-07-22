@@ -1,2 +1,2 @@
-def ChattyStudent
+class ChattyStudent
 end
